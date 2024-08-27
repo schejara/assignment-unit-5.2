@@ -1,0 +1,15 @@
+.heading{
+    background-color: rgb(53, 151, 237);
+    color:aliceblue;
+    text-align: center;
+}
+
+.info{
+    background-color: lightgray;
+    padding: 1em;
+}
+body{
+    margin: 0;
+    background-image: url(../assignment/record.png);
+    background-repeat: repeat;
+}
